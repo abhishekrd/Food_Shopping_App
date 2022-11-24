@@ -42,3 +42,16 @@
     background-color: #8a0683;
     color: white;
   }
+
+
+  .modal{
+    height: 100vh;
+  }
+
+  .status-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    flex-direction: row;
+  }
